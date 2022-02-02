@@ -3,7 +3,7 @@
 
 $ mkvirtualenv tried_and_tested 
 $ pip install Django 
-$ django-admin.py startproject djangoTDD
+$ django-admin.py startproject tested
 
 ## Add a “test_settings.py” file
 
